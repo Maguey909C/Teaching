@@ -1,2 +1,2 @@
 # Teaching
-A few notebooks for teaching kids
+A few notebooks for teaching students
